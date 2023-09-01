@@ -3,3 +3,6 @@
 
 # Ignore history files
 .*_history
+
+# Ignore Todo file
+Todo.md 
